@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh -->
 
 
-# MediSnap
+# MediSnap Client
 
 ## Overview
 MediSnap is a multi-vendor e-commerce platform specializing in the sale of medicines and healthcare products. The platform is built using the MERN stack and aims to provide a seamless user experience for purchasing medications, submitting queries, and receiving expert advice.
