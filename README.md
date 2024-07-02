@@ -4,11 +4,13 @@
 
 ## MediSnap Server site: https://github.com/Zakaria-24/MediSnap-Server
 
-## Overview
+## ![image](https://github.com/Zakaria-24/MediSnap/assets/155288423/2a4ca7f9-ed67-451b-a408-0872c995a05b)Concept/Overview
 MediSnap is a multi-vendor e-commerce platform specializing in the sale of medicines and healthcare products. The platform is built using the MERN stack and aims to provide a seamless user experience for purchasing medications, submitting queries, and receiving expert advice.
 
 ## Project Setup:
-
+- First of all install all the dependencies in package.json file.
+- create a .env.local file in the root directory.
+  * in this file you have to 
 
 ## Admin Credentials
 - **Admin email**: user@gmail.com
