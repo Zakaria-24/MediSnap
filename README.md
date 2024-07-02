@@ -10,7 +10,14 @@ MediSnap is a multi-vendor e-commerce platform specializing in the sale of medic
 ## Project Setup:
 - First of all install all the dependencies in package.json file.
 - create a .env.local file in the root directory.
-  * in this file you have to 
+  * in this file you have to create firebase auth variable
+  * create a VITE_API_URL= "your localhost port link"
+  * ccreate VITE_IMGBB_API_KEY= "for upload a image in firebase(IMGBB site)
+  * create VITE_STRIPE_PUBLISHABLE_KEY= "for stripe payment(Stripe)
+- and In the server site :
+   * build a connection on mongodb and set your unique DB_USER and DB_PASS code,
+   * create  ACCESS_TOKEN_SECRET= "to get token",
+   * create STRIPE_SECRET_KEY= "to get payment secret key"
 
 ## Admin Credentials
 - **Admin email**: user@gmail.com
