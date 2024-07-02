@@ -1,8 +1,8 @@
 # MediSnap
 
-## Live Site: [[MediSnap Live Site](https://medi-snap-f3dd2.web.app)](https://medi-snap-f3dd2.web.app)
+## Live Site: https://medi-snap-f3dd2.web.app
 
-## MediSnap Server: [https://github.com/Zakaria-24/MediSnap-Server]
+## MediSnap Server site: https://github.com/Zakaria-24/MediSnap-Server
 
 ## Overview
 MediSnap is a multi-vendor e-commerce platform specializing in the sale of medicines and healthcare products. The platform is built using the MERN stack and aims to provide a seamless user experience for purchasing medications, submitting queries, and receiving expert advice.
